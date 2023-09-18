@@ -6,7 +6,7 @@ lib_summary = function(){
   pkg_df
 }
 
-lib_summary()
+
 # View(pkgs)
 
 
